@@ -1,0 +1,37 @@
+{
+    "music": [{
+            "name": "background music",
+            "path": "Background Music.mp3",
+            "image": "sp.jpg"
+        },
+        {
+            "name": "BGM",
+            "path": "BGM idd BGM.mp3",
+            "image": "picture1.jpg"
+        },
+        {
+            "name": "cool",
+            "path": "Cool Tune.mp3",
+            "image": "ss.jpg"
+        },
+        {
+            "name": "malayalam",
+            "path": "malayalam.mp3",
+            "image": "immm.jpg"
+        },
+        {
+            "name": "movie",
+            "path": "Movie.mp3",
+            "image": "ff.png"
+        }
+
+
+
+
+
+
+
+    ]
+
+
+}
